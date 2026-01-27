@@ -1,4 +1,4 @@
-# ud_punjabi_petitprince_63
+# sent_id = ud_punjabi_petitprince_63
 # original_text = ਉਸਨੇ ਮੈਨੂੰ ਉੱਤਰ ਦਿੱਤਾ : " ਕੋਈ ਫਰਕ ਨਹੀਂ ਪੈਂਦਾ , ਬਸ ਮੈਨੂੰ ਇੱਕ ਭੇਡ ਵਾਹ ਦਿਓ। . "
 # transliteration = usne mainū̃ uttar dittā: 'koī farak nahī̃ peindā, bas mainū̃ ikk bhēṛ vāh deo.'
 # gloss = he.ERG me.DAT reply give.PST no difference fall.PRS only me.DAT one sheep draw give.IMP
@@ -24,7 +24,7 @@
 18	।	।	PUNCT	_	_	17	punct	_	_
 19	"	"	PUNCT	_	_	4	punct	_	_
 
-# ud_punjabi_petitprince_64
+# sent_id = ud_punjabi_petitprince_64
 # original_text = ਮੈਂ ਕਦੇ ਕੋਈ ਭੇਡ ਨਹੀਂ ਸੀ ਵਾਹੀ। .
 # transliteration = maĩ kade koī bhēṛ nahī̃ sī vāhī.
 # gloss = I ever any sheep NEG COP.PST draw.PFV
@@ -39,7 +39,7 @@
 7	ਵਾਹੀ	ਵਾਹੁਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 8	।	।	PUNCT	_	_	7	punct	_	_
 
-# ud_punjabi_petitprince_65
+# sent_id = ud_punjabi_petitprince_65
 # original_text = ਇਸ ਲਈ ਮੈਂ ਉਹਦੇ ਵਾਸਤੇ ਉਨ੍ਹਾਂ ਦੋਹਾਂ ਵਿਚੋਂ ਇਕ ਚਿੱਤਰ ਵਾਹ ਦਿੱਤਾ ਜੋ ਮੈਂ ਅਕਸਰ ਬਣਾਉਂਦਾ ਸਾਂ। .
 # transliteration = is laī maĩ ehde vāste unhā̃ dohhā̃ vicõ ik chitr vāh dittā jo maĩ aksar banāuṇdā sā̃.
 # gloss = this reason I him for those two among one drawing draw give.PST REL I often make.IPFV COP.PST.
@@ -64,7 +64,7 @@
 17	ਸਾਂ	ਸੀ	AUX	_	_	12	acl:relcl	_	_
 18	।	।	PUNCT	_	_	12	punct	_	_
 
-# ud_punjabi_petitprince_66
+# sent_id = ud_punjabi_petitprince_66
 # original_text = ਇਹ ਸੀ ਅਜਗਰ ਦਾ ਬਾਹਰਲਾ ਚਿੱਤਰ। .
 # transliteration = eh sī ajgar dā bāharlā chitr.
 # gloss = this COP.PST boa GEN outside picture
@@ -78,7 +78,7 @@
 6	ਚਿੱਤਰ	ਚਿੱਤਰ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 7	।	।	PUNCT	_	_	6	punct	_	_
 
-# ud_punjabi_petitprince_67
+# sent_id = ud_punjabi_petitprince_67
 # original_text = ਮੈਂ ਇਹ ਸੁਣ ਕੇ ਹੱਕਾ ਬੱਕਾ ਰਹਿ ਗਿਆ ਜਦੋਂ ਛੋਟੇ ਬੰਦੇ ਨੇ ਇਸ ਦਾ ਸੁਆਗਤ ਇੰਜ ਕੀਤਾ :
 # transliteration = maĩ eh sun ke hakā bakā reh gayā jadō̃ choṭe bande ne is dā swāgat inj kītā:
 # gloss = I this hear.CVB stunned stay go.PST when little fellow ERG it GEN welcome thus do.PST
@@ -103,7 +103,7 @@
 17	ਕੀਤਾ	ਕਰਨਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Inf	8	advcl	_	_
 18	:	:	PUNCT	_	_	8	punct	_	_
 
-# ud_punjabi_petitprince_68
+# sent_id = ud_punjabi_petitprince_68
 # original_text = " ਨਹੀਂ , ਨਹੀਂ !
 # transliteration = "nahī̃, nahī̃!
 # gloss = no no
@@ -115,7 +115,7 @@
 4	ਨਹੀਂ	ਨਹੀਂ	INTJ	_	_	2	discourse	_	_
 5	!	!	PUNCT	_	_	2	punct	_	_
 
-# ud_punjabi_petitprince_69
+# sent_id = ud_punjabi_petitprince_69
 # original_text = ਮੈਨੂੰ ਨਹੀਂ ਚਾਹੀਦਾ ਅਜਗਰ ਦੇ ਅੰਦਰ ਹਾਥੀ। .
 # transliteration = mainū̃ nahī̃ chāhīdā ajgar de andar hāthī.
 # gloss = 1SG.DAT NEG want boa GEN inside elephant boa;
@@ -130,7 +130,7 @@
 7	ਹਾਥੀ	ਹਾਥੀ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obj	_	_
 8	।	।	PUNCT	_	_	3	punct	_	_
 
-# ud_punjabi_petitprince_70
+# sent_id = ud_punjabi_petitprince_70
 # original_text = ਅਜਗਰ ਬੜਾ ਖਤਰਨਾਕ ਤੇ ਹਾਥੀ ਬੜਾ ਭੱਦਾ ਜਾਨਵਰ ਹੁੰਦਾ ਹੈ। .
 # transliteration = ajgar baṛā khatarnāk te hāthī baṛā bhadā jānvār hundā hai.
 # gloss = very dangerous and elephant very clumsy animal COP.PRS;
@@ -148,7 +148,7 @@
 10	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	9	aux	_	_
 11	।	।	PUNCT	_	_	9	punct	_	_
 
-# ud_punjabi_petitprince_71
+# sent_id = ud_punjabi_petitprince_71
 # original_text = ਜਿੱਥੇ ਮੈਂ ਰਹਿੰਦਾ ਹਾਂ ਉੱਥੇ  ਹਰ ਚੀਜ਼ ਬੜੀ ਛੋਟੀ ਹੁੰਦੀ ਹੈ। .
 # transliteration = jithe maĩ rahndā hā̃ othe har cīz baṛī choṭī hundī hai.
 # gloss = where 1SG live COP.PRS there everything very small COP.PRS;
@@ -167,7 +167,7 @@
 11	ਹੈ	ਹੈ	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 12	।	।	PUNCT	_	_	10	punct	_	_
 
-# ud_punjabi_petitprince_72
+# sent_id = ud_punjabi_petitprince_72
 # original_text = ਮੈਨੂੰ ਤਾਂ ਬਸ ਇਕ ਭੇਡ ਚਾਹੀਦੀ ਹੈ। .
 # transliteration = mainū̃ tā̃ bas ik bhēṛ chāhīdī hai.
 # gloss = 1SG.DAT EMPH only one sheep want;
@@ -182,7 +182,7 @@
 7	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 8	।	।	PUNCT	_	_	6	punct	_	_
 
-# ud_punjabi_petitprince_73
+# sent_id = ud_punjabi_petitprince_73
 # original_text = ਮੇਰੇ ਲਈ ਬਸ ਇੱਕ ਭੇਡ ਹੀ ਵਾਹੋ। . "
 # transliteration = mere laī bas ikk bhēṛ hī vāho."
 # gloss = for 1SG only one sheep EMPH draw IMP.
@@ -198,7 +198,7 @@
 8	।	।	PUNCT	_	_	7	punct	_	_
 9	"	"	PUNCT	_	_	7	punct	_	_
 
-# ud_punjabi_petitprince_74
+# sent_id = ud_punjabi_petitprince_74
 # original_text = ਇਸ ਲਈ ਮੈਂ ਇੱਕ ਭੇਡ ਦਾ ਚਿੱਤਰ ਵਾਹਿਆ। .
 # transliteration = is laī maĩ ikk bhēṛ dā chitr vāhiā.
 # gloss = this reason I one sheep GEN picture draw.PST.
@@ -214,7 +214,7 @@
 8	ਵਾਹਿਆ	ਵਾਹੁਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 9	।	।	PUNCT	_	_	8	punct	_	_
 
-# ud_punjabi_petitprince_75
+# sent_id = ud_punjabi_petitprince_75
 # original_text = ਉਸਨੇ ਬੜੇ ਧਿਆਨ ਨਾਲ ਵੇਖਿਆ ਤੇ ਕਹਿਣ ਲੱਗਾ : " ਨਹੀਂ , ਨਹੀਂ ! ਇਹ ਭੇਡ ਤਾਂ ਅੱਗੇ ਹੀ ਬੜੀ ਮਰੀਅਲ ਹੈ। ਕੋਈ ਹੋਰ ਬਣਾਓ। . "
 # transliteration = usne baṛe dhiyān nāl vekhiā te kahn lagā: "nahī̃, nahī̃! eh bhēṛ tā̃ age hī baṛī marīal hai. koī hor banāo."
 # gloss = he.ERG great attention with see.PST and say begin.PST. no no this sheep EMPH already EMPH very sick COP.PRS some other make.IMP.
@@ -249,7 +249,7 @@
 27	।	।	PUNCT	_	_	26	punct	_	_
 28	"	"	PUNCT	_	_	5	punct	_	_
 
-# ud_punjabi_petitprince_76
+# sent_id = ud_punjabi_petitprince_76
 # original_text = ਇਸ ਲਈ ਮੈਂ ਇੱਕ ਹੋਰ ਚਿੱਤਰ ਬਣਾਇਆ। .
 # transliteration = is laī maĩ ikk hor chitr banāyā.
 # gloss = this reason I one other drawing make.PST.
@@ -264,7 +264,7 @@
 7	ਬਣਾਇਆ	ਬਣਾਉਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 8	।	।	PUNCT	_	_	7	punct	_	_
 
-# ud_punjabi_petitprince_77
+# sent_id = ud_punjabi_petitprince_77
 # original_text = ਮੇਰਾ ਮਿੱਤਰ ਮਿੰਨਾ ਜਿਹਾ ਹੱਸਿਆ ਤੇ ਬੜੇ ਲਾਡ ਨਾਲ ਕਹਿਣ ਲੱਗਾ : " ਤੁਸੀਂ ਆਪੇ ਹੀ ਵੇਖ ਲਓ , ਇਹ ਭੇਡ ਨਹੀਂ ਇਹ ਭੇਡੂ ਹੈ। ਇਸ ਦੇ ਸਿੰਗ ਹਨ। . "
 # transliteration = merā mitar minā jihā hasiā te baṛe lāḍ nāl kahn lagā: "tusẽ āpe hī vekh lo, eh bhēṛ nahī̃ eh bherṛo hai. is de siṅg han."
 # gloss = my companion disapproving like happen.PST and great affection with say begin.PST. you self EMPH see IMP this sheep NEG this ram COP.PRS it GEN horns COP.PRS.
@@ -303,7 +303,7 @@
 31	।	।	PUNCT	_	_	10	punct	_	_
 32	"	"	PUNCT	_	_	10	punct	_	_
 
-# ud_punjabi_petitprince_78
+# sent_id = ud_punjabi_petitprince_78
 # original_text = ਇੰਝ ਮੈਂ ਇੱਕ ਹੋਰ ਚਿੱਤਰ ਬਣਾਇਆ ਜੋ ਬਾਕੀਆਂ ਵਾਂਗ ਰੱਦ ਹੋ ਗਿਆ। .
 # transliteration = inj maĩ ikk hor chitr banāyā jo bākiyā̃ vāṅg radd ho gayā.
 # gloss = thus I one other drawing make.PST REL others like reject become go.PST.
@@ -323,7 +323,7 @@
 12	ਗਿਆ	ਗਿਆ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing	6	acl:relcl	_	_
 13	।	।	PUNCT	_	_	6	punct	_	_
 
-# ud_punjabi_coercive_discourse_12
+# sent_id = ud_punjabi_coercive_discourse_12
 # original_text = ਉਹ ਇੱਕ ਤਰ੍ਹਾਂ ਨਾਲ ਇੱਕ ਸਮਾਨਾਂਤਰ ਨਿੱਜੀ ਪ੍ਰਣਾਲੀ ਬਣਾਉਣਗੇ।
 # transliteration = uh ikk tarhā̃ nāl ikk samānāntar nijjī praṇālī baṇāuṇge.
 # translation = They will in a sense create a parallel private system.
@@ -339,7 +339,7 @@
 9	ਬਣਾਉਣਗੇ	ਬਣਾਉਣਾ	VERB	_	_	0	root	_	_
 10	।	।	PUNCT	_	_	9	punct	_	_
 
-# ud_punjabi_coercive_discourse_13
+# sent_id = ud_punjabi_coercive_discourse_13
 # original_text = ਇਹ ਹੌਲੀ-ਹੌਲੀ ਜਨਤਕ ਪ੍ਰਣਾਲੀ ਨੂੰ ਕਮਜ਼ੋਰ ਕਰ ਦੇਵੇਗਾ ਅਤੇ ਢਹਿ-ਢੇਰੀ ਕਰ ਦੇਵੇਗਾ।
 # transliteration = ih haulī-haulī janatak praṇālī nū̃ kamzōr kar devegā ate ḍahi-ḍherī kar devegā.
 # translation = It will gradually weaken and lead to the collapse of the public system.
@@ -360,7 +360,7 @@
 14	ਦੇਵੇਗਾ	ਦੇਣਾ	VERB	_	_	0	root	_	_
 15	।	।	PUNCT	_	_	14	punct	_	_
 
-# ud_punjabi_coercive_discourse_14
+# sent_id = ud_punjabi_coercive_discourse_14
 # original_text = ਹੋਰ ਸਬਸਿਡੀਆਂ, ਸਹਾਇਤਾਵਾਂ, ਅਤੇ ਬੁਨਿਆਦੀ ਢਾਂਚੇ ਦੀ ਲੜੀ ਦੇ ਨਾਲ ਜੋ ਸਰਕਾਰੀ ਨਿਯੰਤਰਣ ਅਤੇ ਵੰਡ 'ਤੇ ਨਿਰਭਰ ਕਰਦੇ ਹਨ।
 # transliteration = hor sabsidīā̃, sahāitāvā̃, ate buniyādī ḍhā̃ce dī laṛī de nāl jo sarkārī niyantraṇ ate vaṇḍ 'te nirbhar karde han.
 # translation = Along with the range of other subsidies, supports, and infrastructure that depend on government control and distribution.
@@ -389,7 +389,7 @@
 22	ਹਨ	ਹੈ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
 23	।	।	PUNCT	_	_	21	punct	_	_
 
-# ud_punjabi_coercive_discourse_15
+# sent_id = ud_punjabi_coercive_discourse_15
 # original_text = ਹੁਣ ਜਦੋਂ ਅਜਿਹਾ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਕਿਸਾਨਾਂ ਨੂੰ ਬਾਜ਼ਾਰ ਦੀ ਅਸਥਿਰਤਾ ਦੇ ਡਰਾਉਣੇ ਸੁਪਨੇ ਵਿੱਚ ਧੱਕ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ।
 # transliteration = huṇ jadõ ajihā hundā hai, tā̃ kisānā̃ nū̃ bāzār dī asthirtā de ḍarāuṇe supne vich dhakk dittā jāndā hai.
 # translation = Now when that happens, farmers are thrown into the nightmare of market volatility.
@@ -416,7 +416,7 @@
 20	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	_
 21	।	।	PUNCT	_	_	17	punct	_	_
 
-# ud_punjabi_coercive_discourse_16
+# sent_id = ud_punjabi_coercive_discourse_16
 # original_text = ਸਮੁੱਚੀ ਆਰਥਿਕਤਾ ਵਿੱਚ ਅਸਥਿਰਤਾ ਆ ਜਾਵੇਗੀ।
 # transliteration = samuccī ārthiktā vich asthirtā ā jāvegī.
 # translation = There will be a destabilization of the entire economy.

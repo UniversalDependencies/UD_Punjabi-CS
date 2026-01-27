@@ -1,4 +1,4 @@
-# ud_punjabi_petitprince_1
+# sent_id = ud_punjabi_petitprince_1
 # original_text = ਇਕ ਵਾਰ , ਜਦੋਂ ਮੈਂ ਛੇ ਸਾਲ ਦਾ ਸਾਂ। .
 # transliteration = ik vār, jadō̃ maĩ chhe sāl dā sā̃.
 # gloss = once when 1SG six year COP.PST
@@ -15,7 +15,7 @@
 9	ਸਾਂ	ਸੀ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 10	।	।	PUNCT	_	_	9	punct	_	_
 
-# ud_punjabi_petitprince_2
+# sent_id = ud_punjabi_petitprince_2
 # original_text = ਇਕ ਕਿਤਾਬ ਜਿਸਦਾ ਨਾਂ ਸੀ ' ਕੁਦਰਤ ਵਿਚੋਂ ਸੱਚੀਆਂ ਕਹਾਣੀਆਂ ' ਵਿਚ ਬੜੇ ਪੁਰਾਣੇ ਜੰਗਲ ਦੀ ਬੜੀ ਸ਼ਾਨਦਾਰ ਤਸਵੀਰ ਦੇਖੀ। .
 # transliteration = ik kitāb jisdā nā̃ sī 'kudrat vicchõ sachiyā̃ kahāniā̃' vic baṛe purāne jangal dī baṛī shāndār tasvīr dekhī.
 # gloss = one book REL name COP.PST “Nature From True Stories” in big old forest GEN very magnificent picture ACC see PST PFV.
@@ -43,7 +43,7 @@
 20	ਦੇਖੀ	ਵੇਖਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
 21	।	।	PUNCT	_	_	20	punct	_	_
 
-# ud_punjabi_petitprince_3
+# sent_id = ud_punjabi_petitprince_3
 # original_text = ਇਹ ਤਸਵੀਰ ਇਕ ਅਜਗਰ ਦੀ ਸੀ ਜੋ ਕਿਸੇ ਜਾਨਵਰ ਨੂੰ ਨਿਘਲਣ ਵਿਚ ਰੁੱਝਿਆ ਹੋਇਆ ਸੀ। .
 # transliteration = ih tasvīr ik ajgar dī sī jo kise jānvār nū̃ nighlan vic rajhiā hoiā sī. lo vekho is 'chitr' dī nakal:
 # gloss = this picture ACC one boa constrictor GEN COP.PST REL some animal ACC swallow IPFV engaged COP.PST.
@@ -66,7 +66,7 @@
 15	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	advcl	_	_
 16	।	।	PUNCT	_	_	6	punct	_	_
 
-# ud_punjabi_petitprince_4
+# sent_id = ud_punjabi_petitprince_4
 # original_text = ਲਓ ਵੇਖੋ ਉਸ ' ਚਿੱਤਰ ' ਦੀ ਨਕਲ :
 # transliteration = lao vekho is 'chitr' dī nakal:
 # gloss = here 3SG.GEN drawing GEN copy ACC see PRS IPFV.
@@ -82,7 +82,7 @@
 8	ਨਕਲ	ਨਕਲ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
 9	:	:	PUNCT	_	_	2	punct	_	_
 
-# ud_punjabi_petitprince_5
+# sent_id = ud_punjabi_petitprince_5
 # original_text = ਉਸ ਕਿਤਾਬ ਵਿਚ ਇੰਜ ਲਿਖਿਆ ਸੀ :
 # transliteration = is kitāb vic inj likhiā sī:
 # gloss = in this book this write PRS.PFV:
@@ -96,7 +96,7 @@
 6	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	aux	_	_
 7	:	:	PUNCT	_	_	5	punct	_	_
 
-# ud_punjabi_petitprince_6
+# sent_id = ud_punjabi_petitprince_6
 # original_text = ਇਸ ਤੋਂ ਬਾਦ ਉਹ ਹਿਲ ਨਹੀਂ ਸਕਦੇ ਅਤੇ ਉਸਨੂੰ ਪਚਾਉਣ ਲਈ ਛੇ ਮਹੀਨੇ ਤੱਕ ਸੁੱਤੇ ਰਹਿੰਦੇ ਹਨ । "
 # transliteration = is tō̃ bāad uh hil nahī̃ sakde ate isnū̃ pachāuṇ laī chhe mahīne takk sute rehnde han."
 # gloss = after this 3PL move NEG can PRS and 3SG digest DAT six month until asleep stay PRS.IPFV."
@@ -122,7 +122,7 @@
 18	।	।	PUNCT	_	_	5	punct	_	_
 19	"	"	PUNCT	_	_	5	punct	_	_
 
-# ud_punjabi_petitprince_7
+# sent_id = ud_punjabi_petitprince_7
 # original_text = ਇਸ ਤੋਂ ਬਾਦ ਉਹ ਹਿਲ ਨਹੀਂ ਸਕਦੇ ਅਤੇ ਉਸਨੂੰ ਪਚਾਉਣ ਲਈ ਛੇ ਮਹੀਨੇ ਤੱਕ ਸੁੱਤੇ ਰਹਿੰਦੇ ਹਨ । "
 # transliteration = is tō̃ bāad uh hil nahī̃ sakde ate isnū̃ pachāuṇ laī chhe mahīne takk sute rehnde han."
 # gloss = after this 3PL move NEG can PRS and 3SG digest DAT six month until asleep stay PRS.IPFV."
@@ -148,7 +148,7 @@
 18	।	।	PUNCT	_	_	5	punct	_	_
 19	"	"	PUNCT	_	_	5	punct	_	_
 
-# ud_punjabi_petitprince_8
+# sent_id = ud_punjabi_petitprince_8
 # original_text = ਇਸ ਤੋਂ ਬਾਦ ਮੈਂ ਜੰਗਲ ਵਿਚ ਹੁੰਦੇ ਜਾਂਬਾਜ਼ ਕਾਰਨਾਮਿਆਂ ਬਾਰੇ ਬੜੀ ਗਹਿਰਾਈ ਨਾਲ ਸੋਚਿਆ। .
 # transliteration = isa tō bād mai jagala vica hudē jābāz kāranāmi'ā bārē baṛī gahirā'ī nāla sōci'ā
 # gloss = after this 1SG forest in happen IPFV adventurous deed PL about very deeply with think PST IPFV.
@@ -170,7 +170,7 @@
 14	ਸੋਚਿਆ	ਸੋਚਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	।	।	PUNCT	_	_	14	punct	_	_
 
-# ud_punjabi_petitprince_9
+# sent_id = ud_punjabi_petitprince_9
 # original_text = ਫਿਰ ਆਪਣੀ ਰੰਗਦਾਰ ਪੈਨਸਿਲ ਥੋੜੀ ਬਹੁਤ ਚਲਾ ਕੇ ਆਪਣਾ ਪਹਿਲਾ ਚਿੱਤਰ ਬਣਾਉਣ ਵਿਚ ਮੈਂ ਸਫਲ ਹੋ ਗਿਆ। .
 # transliteration = phir āpnī rangdār pensil thorhī bahut chalā ke āpnā pehlā chitr banāuṇ vic maĩ saphal ho gayā.
 # gloss = then own colored pencil little much move do.CVB own first drawing make.INF in I successful become.PST.
@@ -195,7 +195,7 @@
 17	ਗਿਆ	ਗਿਆ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	16	advcl	_	_
 18	।	।	PUNCT	_	_	12	punct	_	_
 
-# ud_punjabi_petitprince_10
+# sent_id = ud_punjabi_petitprince_10
 # original_text = ਮੇਰਾ ਪਹਿਲਾ ਚਿੱਤਰ ਕੁਝ ਇੰਜ ਦਿਖਾਈ ਦਿੰਦਾ ਸੀ। .
 # transliteration = merā pehlā chitr kujh inj dikhāī dindā sī.
 # gloss = 1SG.GEN first drawing some this look give PST PFV COP.PST.
@@ -211,7 +211,7 @@
 8	ਸੀ	ਸੀ	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	_	_
 9	।	।	PUNCT	_	_	7	punct	_	_
 
-# ud_punjabi_petitprince_11
+# sent_id = ud_punjabi_petitprince_11
 # original_text = ਮੈਂ ਆਪਣਾ ਸ਼ਾਹਕਾਰ ਵੱਡਿਆਂ ਨੂੰ ਦਿਖਾਇਆ ਤੇ ਪੁੱਛਿਆ ਕਿ ਤੁਹਾਨੂੰ ਇਸ ਤੋਂ  ਡਰ ਲੱਗਦਾ ਹੈ ?
 # transliteration = maĩ āpnā shāhkār vaḍiyā̃ nū̃ dikhāyā te puchhiā ki tahānū̃ is tō̃ ḍar lagdā hai?
 # gloss = 1SG 1SG.GEN masterpiece elder DAT show INF and ask PST PFV that 2SG this ABL fear feel PRS Q.
@@ -234,7 +234,7 @@
 15	ਹੈ	ਹੈ	AUX	_	Number=Sing|Person=3|Tense=Pres	14	aux	_	_
 16	?	?	PUNCT	_	_	6	punct	_	_
 
-# ud_punjabi_petitprince_12
+# sent_id = ud_punjabi_petitprince_12
 # original_text = ਉਨ੍ਹਾਂ ਦਾ ਉੱਤਰ ਸੀ : "ਡਰ ! ਬਈ ਹੈਟ ਤੋਂ ਕੌਣ ਡਰਦਾ ਹੈ ?"
 # transliteration = unhā̃ dā uttar sī: "ḍar! bhai hēṭ tō̃ kaun ḍardā hai?"
 # gloss = 3PL.GEN answer COP.PST: “fear! brother NOM hat ABL who fear PRS Q?”
@@ -257,7 +257,7 @@
 15	?	?	PUNCT	_	_	14	punct	_	_
 16	"	"	PUNCT	_	_	4	punct	_	_
 
-# ud_punjabi_petitprince_13
+# sent_id = ud_punjabi_petitprince_13
 # original_text = ਅਸਲ ਵਿਚ ਮੇਰਾ ਚਿੱਤਰ, ਹੈਟ ਦੀ ਤਸਵੀਰ ਨਹੀਂ ਸੀ। .
 # transliteration = asal vic merā chitr, hēṭ dī tasvīr nahī̃ sī.
 # gloss = in reality 1SG.GEN drawing in hat GEN picture NEG COP.PST.
@@ -275,7 +275,7 @@
 10	ਸੀ	ਸੀ	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	।	।	PUNCT	_	_	10	punct	_	_
 
-# ud_punjabi_petitprince_14
+# sent_id = ud_punjabi_petitprince_14
 # original_text = ਉਹ ਤਾਂ ਅਜਗਰ ਸੀ ਜੋ ਹਾਥੀ ਨੂੰ ਪਚਾ ਰਿਹਾ ਸੀ। .
 # transliteration = oh tā̃ ajgar sī jo hāthī nū̃ pachā rihā sī.
 # gloss = that boa constrictor COP.PST REL elephant ACC digest IPFV COP.PST
@@ -293,7 +293,7 @@
 10	ਸੀ	ਸੀ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
 11	।	।	PUNCT	_	_	4	punct	_	_
 
-# ud_punjabi_petitprince_15
+# sent_id = ud_punjabi_petitprince_15
 # original_text = ਪਰ ਸਿਆਣੇ ਕਿਓਂਕਿ ਇਹ ਸਭ ਕੁਝ ਨਹੀਂ ਸਮਝਰਹੇ ਸਨ , ਇਸ ਲਈ ਮੈਂ ਇਕ ਹੋਰ ਚਿੱਤਰ ਬਣਾਇਆ ਤਾਂ ਕਿ ਵੱਡੇ ਇਸ ਨੂੰ ਸਾਫ ਸਾਫ ਦੇਖ ਸਕਣ। .
 # transliteration = par siyāne kiõki eh sab kujh nahī̃ samajh rahe san, is laī maĩ ik hor chitr banāyā tā̃ ki vaḍe is nū̃ sāf sāf dekh sakkan.
 # gloss = but elders because this all thing NEG understand PROG COP.PST so I one other drawing make.PST so that elders it ACC clear see can.SUBJ
@@ -327,7 +327,7 @@
 26	ਸਕਣ	ਸਕਣਾ	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	17	advcl	_	_
 27	।	।	PUNCT	_	_	17	punct	_	_
 
-# ud_punjabi_petitprince_16
+# sent_id = ud_punjabi_petitprince_16
 # original_text = ਉਨਾਂ ਨੂੰ ਹਰ ਚੀਜ਼ ਸਮਝਾਉਣੀ ਪੈਂਦੀ ਹੈ। .
 # transliteration = unā̃ nū̃ har cīz samjhāuṇī paindī hai.
 # gloss = them ACC every thing explain.INF necessary COP.PRS
@@ -342,7 +342,7 @@
 7	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 8	।	।	PUNCT	_	_	6	punct	_	_
 
-# ud_punjabi_petitprince_17
+# sent_id = ud_punjabi_petitprince_17
 # original_text = ਮੇਰੀ ਦੂਜੀ ਡ੍ਰਾਇੰਗ ਕੁਝ ਇੰਜ ਦਿਖਾਈ ਦਿੰਦੀ ਸੀ। :
 # transliteration = merī dūjī ḍrāiṅg kujh inj dikhāī dindī sī.
 # gloss = my second drawing somewhat thus visible give.IPFV COP.PST
@@ -359,7 +359,7 @@
 9	।	।	PUNCT	_	_	7	punct	_	_
 10	:	:	PUNCT	_	_	7	punct	_	_
 
-# ud_punjabi_petitprince_18
+# sent_id = ud_punjabi_petitprince_18
 # original_text = ਇਸ ਵਾਰ ਵੱਡਿਆਂ ਦਾ ਜਵਾਬ ਇਕ ਸਲਾਹ ਦੇ ਰੂਪ ਵਿਚ ਆਇਆ ਕਿ ਮੈਂ ਅਜਗਰਾਂ ਦੀਆਂ ਤਸਵੀਰਾਂ ਅਦਰੋਂ ਜਾਂ ਬਾਹਰੋਂ ਛੱਡ ਇਤਿਹਾਸ, ਭੁਗੋਲ, ਹਿਸਾਬ ਤੇ ਵਿਆਕਰਣ ਦੀ ਪੜਈ ਵਿਚ ਖੁਭ ਜਾਂਵਾ। .
 # transliteration = is vār vaḍiyā̃ dā javāb ik salah de rūp vic āyā ki maĩ ajgarā̃ diyā̃ tasvīrā̃ andrõn ja bahro chad itihās, bhugol, ḥisāb te viyākaran dī paṛhāī vic khub jāvā̃.
 # gloss = this time elder GEN reply one advice form in come PST PFV that 1SG boa constrictor GEN picture PL from inside or outside leave SBJ history, geography, arithmetic and grammar GEN study in engage go PRS IPFV.
@@ -399,7 +399,7 @@
 32	ਜਾਂਵਾ	ਜਾਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	11	advcl	_	_
 33	।	।	PUNCT	_	_	11	punct	_	_
 
-# ud_punjabi_petitprince_19
+# sent_id = ud_punjabi_petitprince_19
 # original_text = ਇਸੇ ਲਈ ਮੈਂ ਛੇ ਸਾਲ ਦੀ ਉਮਰ ਵਿਚ ਹੀ ਚਿੱਤਰਕਾਰ ਵਾਲਾ ਧੰਦਾ (ਜੋ ਭਾਂਵੇਂ ਬੜਾ ਹੀ ਸ਼ਾਨਦਾਰ ਹੁੰਦਾ) ਛੱਡ ਦਿੱਤਾ। .
 # transliteration = ise laī maĩ chhe sāl dī umur vic hī chitarkār vālā dhanda (jō bhānvē baṛā hī śānadār hudā)  chod ditta.
 # gloss = for this reason 1SG six year GEN at only drawing profession (which can very much wonderful be PFV) leave PST PFV.
@@ -429,7 +429,7 @@
 22	ਦਿੱਤਾ	ਦੇਣਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 23	।	।	PUNCT	_	_	22	punct	_	_
 
-# ud_punjabi_petitprince_20
+# sent_id = ud_punjabi_petitprince_20
 # original_text = ਪਹਿਲੀ ਅਤੇ ਦੂਜੀ ਡਰਾਇੰਗ ਦੀ ਨਾਕਾਮੀ ਨੇ ਮੇਰਾ ਦਿਲ ਤੋੜ ਦਿੱਤਾ। .
 # transliteration = pehlī atte dūjī ḍrāiṅg dī nākāmī ne merā dil ṭoṛ ditta.
 # gloss = first and second drawing GEN failure ERG my heart break give.PST
@@ -448,7 +448,7 @@
 11	ਦਿੱਤਾ	ਦੇਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 12	।	।	PUNCT	_	_	11	punct	_	_
 
-# ud_punjabi_petitprince_21
+# sent_id = ud_punjabi_petitprince_21
 # original_text = ਵੱਡਿਆਂ ਨੂੰ ਆਪਣੇ ਆਪ ਕੁਝ ਸਮਝ ਆਉਂਦਾ ਨਹੀਂ ਤੇ ਛੋਟਿਆਂ ਵਲੋਂ ਉਨ੍ਹਾਂ ਨੂੰ ਹਰ ਵੇਲੇ ਸਮਝਾਉਂਦੇ ਰਹਿਣਾ ਬੜਾ ਮੁਸ਼ਕਿਲ ਹੁੰਦਾ ਹੈ। .
 # transliteration = vaḍiyā̃ nū̃ āpne āp kujh samajh āuṇdā nahī̃ te choṭiyā̃ valō̃ unhā̃ nū̃ har vele samjhāuṇde rahṇā baṛā mushkil hundā hai.
 # gloss = elders DAT self nothing understand come.IPFV NEG and children by them ACC every time explain keep.INF very difficult COP.PRS
@@ -477,7 +477,7 @@
 21	ਹੈ	ਹੈ	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	20	aux	_	_
 22	।	।	PUNCT	_	_	20	punct	_	_
 
-# ud_punjabi_petitprince_22
+# sent_id = ud_punjabi_petitprince_22
 # original_text = ਇਸ ਲਈ ਮੈਂ ਹੋਰ ਕਿੱਤਾ ਚੁਣ ਲਿਆ ਅਤੇ ਜਹਾਜ਼ ਚਲਾਉਣੇ ਸਿਖ ਲਏ। .
 # transliteration = is laī maĩ hor kitā chun liā ate jahāz chalāuṇe sikh lae.
 # gloss = this reason I another profession choose take.PST and airplane fly.INF learn take.PST
@@ -497,7 +497,7 @@
 12	ਲਏ	ਲੈਣਾ	VERB	_	_	7	conj	_	_
 13	।	।	PUNCT	_	_	7	punct	_	_
 
-# ud_punjabi_petitprince_23
+# sent_id = ud_punjabi_petitprince_23
 # original_text = ਮੈਂ ਲਗਭਗ ਸਾਰੀ ਦੁਨੀਆ ਦੇ ਉਪਰੋਂ ਥੋੜਾ ਬਹੁਤ ਜਹਾਜ਼ ਚਲਾਇਆ ਹੈ। .
 # transliteration = maĩ lagbhag sārī duniyā de upron thorhā bohat jahāz chalāyā hai.
 # gloss = I almost whole world GEN above little much airplane fly.PST COP.PRS
@@ -516,7 +516,7 @@
 11	ਹੈ	ਹੈ	AUX	_	Number=Sing|Person=3|Tense=Pres	10	aux	_	_
 12	।	।	PUNCT	_	_	10	punct	_	_
 
-# ud_punjabi_petitprince_24
+# sent_id = ud_punjabi_petitprince_24
 # original_text = ਇਹ ਭੀ ਸੱਚ ਹੈ ਕਿ ਇਸ ਕੱਮ ਵਿਚ ਭੁਗੋਲ ਦੀ ਜਾਣਕਾਰੀ ਨੇ ਮੇਰੀ ਮਦਦ ਕੀਤੀ। .
 # transliteration = eh vī sac hai ki is kam vic bhugol dī jānkārī ne merī madad kītī.
 # gloss = this also truth COP.PRS that this profession in geography GEN knowledge 1SG.DAT help do PST PFV.
@@ -539,7 +539,7 @@
 15	ਕੀਤੀ	ਕਰਨਾ	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	14	compound:lvc	_	_
 16	।	।	PUNCT	_	_	3	punct	_	_
 
-# ud_punjabi_petitprince_25
+# sent_id = ud_punjabi_petitprince_25
 # original_text = ਦੇਖਦੇ ਸਾਰ ਹੀ ਮੈਂ ਦਸ ਸਕਦਾ ਹਾਂ ਕਿ ਇਹ ਚੀਨ ਹੈ ਕਿ ਐਰੀਜ਼ੋਨਾ। .
 # transliteration = dekhde sāra hī maĩ das sakdā hā̃ ki eh Cheen hai ki Arizona.
 # gloss = on see INF immediately 1SG tell can PRS that this China COP.PRS or Arizona COP.PRS.
@@ -560,7 +560,7 @@
 13	ਐਰੀਜ਼ੋਨਾ	ਐਰੀਜ਼ੋਨਾ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
 14	।	।	PUNCT	_	_	6	punct	_	_
 
-# ud_punjabi_petitprince_26
+# sent_id = ud_punjabi_petitprince_26
 # original_text = ਜੇਕਰ ਰਾਤ ਵੇਲੇ ਕੋਈ ਭਟਕ ਜਾਵੇ ਤਾਂ ਉਸ ਵੇਲੇ ਅਜਿਹਾ ਗਿਆਨ ਬੜਾ ਵਡਮੁੱਲਾ ਸਾਹਬ ਹੁੰਦਾ ਹੈ। .
 # transliteration = jekar rāt vele koī bhaṭak jāve tā̃ us vele ajehā giān baṛā vaḍmullā sāhib hundā hai.
 # gloss = if night time someone stray go.SUBJ then that time such knowledge very valuable master COP.PRS.
@@ -584,7 +584,7 @@
 16	ਹੈ	ਹੈ	AUX	_	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	15	aux	_	_
 17	।	।	PUNCT	_	_	15	punct	_	_
 
-# ud_punjabi_petitprince_27
+# sent_id = ud_punjabi_petitprince_27
 # original_text = ਇਸ ਸਾਰੇ ਜੀਵਨ ਵਿਚ ਮੇਰਾ ਬਹੁਤ ਸਾਰਾ ਵਾਹ ਉਨ੍ਹਾਂ ਲੋਕਾਂ ਨਾਲ ਪਿਆ ਜੋ ਮਤਲਬ ਦੀਆਂ ਗੱਲਾਂ ਨਾਲ ਹੀ ਮਤਲਬ ਰੱਖਦੇ ਹਨ। .
 # transliteration = is sāre jīvan vic merā bohat sārā vāh unhā̃ lokā̃ nāl piā jo matlab diyā̃ galā̃ nāl hī matlab rakhde han.
 # gloss = this whole life in my much dealing those people with happen.PST who meaning GEN matters with only concern keep.IPFV COP.PRS.
@@ -613,7 +613,7 @@
 21	ਹਨ	ਹੈ	AUX	_	Aspect=Perf|Number=Plur|Person=3	20	aux	_	_
 22	।	।	PUNCT	_	_	12	punct	_	_
 
-# ud_punjabi_petitprince_28
+# sent_id = ud_punjabi_petitprince_28
 # original_text = ਮੈਂ ਬੜੀ ਦੇਰ ਸਿਆਣੇ ਲੋਕਾਂ ਵਿਚ ਰਿਹਾ ਹਾਂ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਬੜੇ ਨੇੜੇ ਹੋ ਕੇ ਵੀ ਤੱਕਿਆ ਹੈ। .
 # transliteration = maĩ baṛī der siyāne lokā̃ vic rihā hā̃ ate unhā̃ nū̃ baṛe neṛe ho ke vī taki'ā hai.
 # gloss = I long time wise people among live.PFV COP.PRS and them ACC very near be.CVB also see.PFV COP.PRS.
@@ -639,7 +639,7 @@
 18	ਹੈ	ਹੈ	AUX	_	Number=Sing|Person=3|Tense=Pres	17	aux	_	_
 19	।	।	PUNCT	_	_	7	punct	_	_
 
-# ud_punjabi_petitprince_29
+# sent_id = ud_punjabi_petitprince_29
 # original_text = ਪਰ ਫਿਰ ਭੀ ਉਨ੍ਹਾਂ ਬਾਰੇ ਮੇਰੀ ਰਾਇ ਵਿਚ ਕੋਈ ਬਦਲਾਅ ਨਹੀਂ ਆਇਆ। .
 # transliteration = par phir vī unhā̃ bāre merī rāe vic koī badlāv nahī̃ āyā.
 # gloss = but still them about my opinion in any change NEG come.PST
@@ -659,7 +659,7 @@
 12	ਆਇਆ	ਆਉਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	।	।	PUNCT	_	_	12	punct	_	_
 
-# ud_punjabi_petitprince_30
+# sent_id = ud_punjabi_petitprince_30
 # original_text = ਜਦੋਂ ਕਦੇ ਇਨ੍ਹਾ ਵਿਚੋ ਮੈਨੂੰ ਕੋਈ ਸਪਸਟ ਨਜ਼ਰੀਏ ਵਾਲਾ ਜਾਪਦਾ ਹੈ , ਮੈਂ ਉਸਨੂੰ ਆਪਣੀ ਪਹਿਲੀ ਡ੍ਰਾਇੰਗ ( ਜੋ ਮੈਂ ਸਦਾ ਆਪਣੇ ਨਾਲ ਰੱਖਦਾ ਹਾਂ ) ਦਿਖਾਉਣ ਦਾ ਤਜ਼ਰਬਾ ਕਰਦਾ ਹਾਂ। .
 # transliteration = jadō̃ kade unhā̃ vicõ mainū̃ koī spasṭ nazariye vālā jāpda hai, maĩ isnū̃ āpnī pehlī ḍrāiṅg (jo maĩ sadā āpne nāl rakhdā hā̃) dikhāuṇ dā tajurba kardā hā̃.
 # gloss = whenever 3PL DAT to 1SG any clear perspective have PTCP appear PRS IPFV, 1SG 3PL 1SG.GEN first drawing (which 1SG always 1SG.GEN with keep PRS IPFV) present experience do PRS IPFV.
@@ -698,7 +698,7 @@
 31	ਹਾਂ	ਹੈ	AUX	_	_	30	aux	_	_
 32	।	।	PUNCT	_	_	30	punct	_	_
 
-# ud_punjabi_petitprince_31
+# sent_id = ud_punjabi_petitprince_31
 # original_text = ਮੈਂ ਇਹ ਦੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹਾਂ ਕਿ ਇਹ ਬੰਦਾ ਸਚਮੁਚ ਸਹੀ ਸੋਚ ਦਾ ਮਾਲਕ ਹੈ। .
 # transliteration = maĩ eh dekhan dī koshish kardā hā̃ ki eh bandā sachmuch sahī soch dā mālik hai.
 # gloss = I this see.INF GEN effort do.IPFV COP.PRS that this man really correct thought GEN owner COP.PRS.
@@ -722,7 +722,7 @@
 16	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
 17	।	।	PUNCT	_	_	6	punct	_	_
 
-# ud_punjabi_petitprince_32
+# sent_id = ud_punjabi_petitprince_32
 # original_text = ਪਰ ਜੇ ਉਹ ਜੋ ਕੁਝ ਮਰਜ਼ੀ ਹੁੰਦਿਆਂ ਹੋਇਆਂ ਵੀ ਇਹ ਕਹਿੰਦਾ ਹੈ ਕਿ ਇਹ ਇਕ ਹੈਟ ਹੈ। .
 # transliteration = par je oh jo kujh marzī hundiā hoyā̃ vī eh kehndā hai ki eh ik hēṭ hai.
 # gloss = but if 3SG whatever maybe be PTCP even this say PRS that this one hat COP.PRS.
@@ -747,7 +747,7 @@
 17	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 18	।	।	PUNCT	_	_	12	punct	_	_
 
-# ud_punjabi_petitprince_33
+# sent_id = ud_punjabi_petitprince_33
 # original_text = ਤਾਂ ਮੈਂ ਉਸ ਨਾਲ ਅਜਗਰਾਂ , ਪੁਰਾਤਨ ਜੰਗਲਾਂ ਜਾਂ ਤਾਰਿਆਂ ਬਾਰੇ ਕੋਈ ਗਲ ਨਹੀਂ ਕਰਦਾ। .
 # transliteration = tā̃ maĩ is nāl ajgarā̃, purātan jangalā̃ jā̃ tārīā̃ bāre koī gal nahī̃ kardā.
 # gloss = so 1SG 3SG with boa constrictor, ancient forest PL or star PL about any talk NEG do PRS IPFV.
@@ -770,7 +770,7 @@
 15	ਕਰਦਾ	ਕਰਨਾ	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|VerbForm=Part	0	root	_	_
 16	।	।	PUNCT	_	_	15	punct	_	_
 
-# ud_punjabi_petitprince_34
+# sent_id = ud_punjabi_petitprince_34
 # original_text = ਉਸ ਨਾਲ ਮੈਂ ' ਬ੍ਰਿਜ ' , ਗੌਲ ਰਾਜਨੀਤੀ ਤੇ ਨੈੱਕਟਾਈਆਂ ਦੀਆਂ ਗੱਲਾਂ ਕਰਨ ਲੱਗ ਪੈਂਦਾ ਹਾਂ। .
 # transliteration = is nāl maĩ 'brij', gol rājnītī te nektāiyā̃ diyā̃ galā̃ karan lag paindā hā̃.
 # gloss = with 3SG COM 1SG ‘bridge’, around politics and necktie PL about talk PL do begin PRS IPFV.
@@ -795,7 +795,7 @@
 17	ਹਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 18	।	।	PUNCT	_	_	16	punct	_	_
 
-# ud_punjabi_petitprince_35
+# sent_id = ud_punjabi_petitprince_35
 # original_text = ਇਸ ਤਰ੍ਹਾਂ ਸਿਆਣੇ ਲੋਕ ਬਹੁਤ ਖੁਸ਼ ਹੁੰਦੇ ਕਿ ਉਨ੍ਹਾਂ ਨੂੰ ਕਿੰਨਾ ਸਮਝਦਾਰ ਬੰਦਾ ਮਿਲਿਆ ਹੈ। .
 # transliteration = is tarā̃ siyāne lok bohat khush hunde ki unhā̃ nū̃ kinā samajhdār vyakti miliā hai.
 # gloss = thus elder person PL very happy become PST PFV that 3PL such intelligent man meet PST PFV.
@@ -818,7 +818,7 @@
 15	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	_
 16	।	।	PUNCT	_	_	7	punct	_	_
 
-# ud_punjabi_petitprince_36
+# sent_id = ud_punjabi_petitprince_36
 # original_text = ਅਜੇ ਤੱਕ ਮੈਨੂੰ ਕੋਈ ਅਜਿਹਾ ਵਿਅਕਤੀ ਨਹੀਂ ਸੀ ਮਿਲਿਆ ਜਿਸ ਨਾਲ ਮੈਂ ਖੁੱਲ ਕੇ ਗਲ ਕਰ ਸਕਿਆ ਹੋਵਾਂ। .
 # transliteration = aje takk mainū̃ koī ajehā vyakti nahī̃ sī miliā jis nāl maĩ khull ke gal kar sakiā hovā̃.
 # gloss = until now me.DAT any such person NEG COP.PST meet.PFV REL with I openly talk do can.PFV be.SUBJ.
@@ -844,7 +844,7 @@
 18	ਹੋਵਾਂ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	9	acl:relcl	_	_
 19	।	।	PUNCT	_	_	9	punct	_	_
 
-# ud_punjabi_petitprince_37
+# sent_id = ud_punjabi_petitprince_37
 # original_text = ਇਸ ਲਈ ਮੈਂ ਓਨੀ ਦੇਰ ਤੱਕ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਇਕੱਲੇ ਹੀ ਗੁਜ਼ਾਰੀ , ਜਦੋਂ ਤਕ ਅਜ ਤੋਂ ਛੇ ਸਾਲ ਪਹਿਲਾਂ ਮੇਰੇ ਹਵਾਈ ਜਹਾਜ਼ ਦਾ ' ਸਹਾਰਾ ਦੇ ਰੇਗਿਸਤਾਨ ' ਵਿਚ ਹਾਦਸਾ ਨਹੀਂ ਸੀ ਹੋਇਆ। .
 # transliteration = is laī maĩ onī der takk āpnī zindagī akale hī guzārī, jadō̃ takk aj tō̃ chhe sāl pahlā̃ mere havāī jahāz dā 'Sāhārā de registān' vic hādsa nahī̃ sī hoiā.
 # gloss = for this reason 1SG that long until 1SG.GEN life alone only spend PST PFV, until today from six year before 1SG.GEN airplane GEN ‘Sahara GEN desert’ in accident NEG happen PST PFV.
@@ -885,7 +885,7 @@
 33	ਹੋਇਆ	ਹੈ	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
 34	।	।	PUNCT	_	_	11	punct	_	_
 
-# ud_punjabi_petitprince_38
+# sent_id = ud_punjabi_petitprince_38
 # original_text = ਉਦੋਂ ਮੇਰੇ ਇੰਜਣ ਦਾ ਕੋਈ ਪੁਰਜ਼ਾ ਟੁੱਟ ਗਿਆ ਸੀ। .
 # transliteration = udō̃ mere injan dā koī purzā ṭuṭ gayā sī.
 # gloss = then my engine GEN some part break go.PST COP.PST
@@ -902,7 +902,7 @@
 9	ਸੀ	ਸੀ	AUX	_	Gender=Masc|Number=Sing|Person=3|Tense=Past	8	aux	_	_
 10	।	।	PUNCT	_	_	8	punct	_	_
 
-# ud_punjabi_petitprince_39
+# sent_id = ud_punjabi_petitprince_39
 # original_text = ਉਸ ਸਮੇਂ ਮੇਰੇ ਨਾਲ ਨਾ ਕੋਈ ਮਕੈਨਿਕ ਸੀ ਤੇ ਨਾ ਹੀ ਕੋਈ ਯਾਤਰੀ , ਇਸਲਈ ਮੁਰੰਮਤ ਦਾ ਮੁਸ਼ਕਲ ਕੰਮ ਮੈਂ ਆਪੇ ਹੀ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰ ਦਿੱਤਾ। .
 # transliteration = us samẽ mere nāl nā koī mikenik sī te nā hī koī yātri, islaī murammat dā mushkil kam maĩ āpe hī karnā shurū kar ditta.
 # gloss = that time 1SG with NEG any mechanic COP.PST and NEG even any passenger COP.PST, for this reason repair GEN difficult task 1SG self only do begin PST IPFV.
@@ -936,7 +936,7 @@
 26	ਦਿੱਤਾ	ਦੇਣਾ	VERB	_	_	25	compound:svc	_	_
 27	।	।	PUNCT	_	_	23	punct	_	_
 
-# ud_punjabi_petitprince_40
+# sent_id = ud_punjabi_petitprince_40
 # original_text = ਮੇਰੇ ਲਈ ਇਹ ਜੀਵਨ ਤੇ ਮੌਤ ਦਾ ਸਵਾਲ ਸੀ ਕਿਉਂਕਿ ਮੇਰੇ ਕੋਲ ਸਿਰਫ ਇਕ ਹਫ਼ਤੇ ਲਈ ਹੀ ਪੀਣ ਦਾ ਪਾਣੀ ਸੀ। .
 # transliteration = mere laī eh jīvan te maut dā savāl sī kiõki mere kol sirf ik hafte laī hī peṇ dā pānī sī.
 # gloss = 1SG.DAT for this life and death GEN question COP.PST because with 1SG only one week for only drinkable water COP.PST.
@@ -965,7 +965,7 @@
 21	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	advcl	_	_
 22	।	।	PUNCT	_	_	9	punct	_	_
 
-# ud_punjabi_petitprince_41
+# sent_id = ud_punjabi_petitprince_41
 # original_text = ਪਹਿਲੀ ਰਾਤ ਮੈਂ ਮਨੁੱਖੀ ਆਬਾਦੀ ਤੋਂ ਹਜ਼ਾਰਾਂ ਮੀਲ ਦੂਰ ਰੇਤ ਤੇ ਹੀ ਸੌਂ ਗਿਆ। .
 # transliteration = pehlī rāt maĩ manukhī ābādī tō̃ hazārā̃ mīl dūr ret te hī sõ gayā.
 # gloss = first night 1SG human population from thousand mile far sand on only sleep go PST IPFV.
@@ -987,7 +987,7 @@
 14	ਗਿਆ	ਗਿਆ	VERB	_	_	13	compound:svc	_	_
 15	।	।	PUNCT	_	_	13	punct	_	_
 
-# ud_punjabi_petitprince_42
+# sent_id = ud_punjabi_petitprince_42
 # original_text = ਉਸ ਰਾਤ ਮੈਂ ਤਾਂ ਤਬਾਹ ਸਮੁੰਦਰੀ ਜਹਾਜ਼ ਦੇ ਉਸ ਜਹਾਜ਼ੀ ਤੋਂ ਵੀ ਵਧੇਰੇ ਇਕੱਲਾ ਸਾਂ ਜਿਨ੍ਹੇ ਵਿਚਕਾਰ ਸਮੁੰਦਰ ਦੇ ਇੱਕ ਬੱਲੀ ਫੜੀ ਹੋਵੇ। .
 # transliteration = us rāt maĩ tā̃ tabāh samundarī jahāz de us jahāzī tō̃ vī vadhere akelā sā̃ jinhne vichkār samundar de ik balli phaṛī hovē.
 # gloss = that night I EMPH wrecked sea-ship GEN that sailor from even more alone COP.PST who middle sea GEN one raft catch.SUBJ COP.PST
@@ -1018,7 +1018,7 @@
 23	ਹੋਵੇ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux	_	_
 24	।	।	PUNCT	_	_	15	punct	_	_
 
-# ud_punjabi_petitprince_43
+# sent_id = ud_punjabi_petitprince_43
 # original_text = ਇੰਜ ਤੁਸੀਂ ਮੇਰੀ ਹੈਰਾਨੀ ਦਾ ਕਾਰਨ ਸਮਝ ਸਕਦੇ ਹੋ ਜਦੋਂ ਸਵੇਰੇ ਸੂਰਜ ਚੜ੍ਹਨ ਤੇ ਮੈਨੂੰ ਇਕ ਪਿਆਰੀ ਜਿਹੀ ਆਵਾਜ਼ ਨੇ ਇਹ ਕਹਿ ਕੇ ਜਗਾਇਆ ਹੋਵੇ : " ਮੈਨੂੰ ਇਕ ਭੇਡ ਵਾਹ ਕੇ ਦਿਓਗੇ ? "
 # transliteration = inj tusī̃ merī herānī dā kāraṇ samajh sakde ho jadõ svere suraj chaṛhaṇ tẽ mainū̃ ik pyārī jihī āvāz ne eh keh ke jagāyā hove: "mainū̃ ik bhēṛ vāh ke deo-ge?"
 # gloss = as 2SG 1SG.GEN astonishment GEN reason understand able PRS, when morning sun rise upon 1SG one lovely little voice this say PST PFV awaken: “1SG.DAT one sheep draw PFV give?”
@@ -1060,7 +1060,7 @@
 34	?	?	PUNCT	_	_	33	punct	_	_
 35	"	"	PUNCT	_	_	7	punct	_	_
 
-# ud_punjabi_petitprince_44
+# sent_id = ud_punjabi_petitprince_44
 # original_text = " ਹੈਂ ! ਕੀ ! "
 # transliteration = "haĩ! kī!"
 # gloss = exclam what
@@ -1073,7 +1073,7 @@
 5	!	!	PUNCT	_	_	4	punct	_	_
 6	"	"	PUNCT	_	_	2	punct	_	_
 
-# ud_punjabi_petitprince_45
+# sent_id = ud_punjabi_petitprince_45
 # original_text = " ਊਂ ... । ਊਂ  ... । ਮੈਨੂੰ ਇਕ ਭੇਡ ਵਾਹ ਕੇ ਦਿਓ । "
 # transliteration = "ũ ... ũ ... mainū̃ ik bhēṛ vāh ke deo."
 # gloss = um um me.DAT one sheep draw.CVB give.IMP
@@ -1095,7 +1095,7 @@
 14	।	।	PUNCT	_	_	13	punct	_	_
 15	"	"	PUNCT	_	_	13	punct	_	_
 
-# ud_punjabi_petitprince_46
+# sent_id = ud_punjabi_petitprince_46
 # original_text = ਮੈਂ ਤ੍ਰਭਕ ਕੇ ਉਠ ਪਿਆ। .
 # transliteration = maĩ tarbhaḵ ke uṭh piā.
 # gloss = 1SG startle PFV rise go PST IPFV.
@@ -1108,7 +1108,7 @@
 5	ਪਿਆ	ਪੈਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	।	।	PUNCT	_	_	5	punct	_	_
 
-# ud_punjabi_petitprince_47
+# sent_id = ud_punjabi_petitprince_47
 # original_text = ਮੈਂ ਆਪਣੀਆਂ ਅੱਖਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਲਿਆ। .
 # transliteration = maĩ āpniā̃ akhā̃ nū̃ chiṅgī tarā̃ maliā.
 # gloss = 1SG 1SG.GEN eye PL properly rub PST PFV.
@@ -1123,7 +1123,7 @@
 7	ਮਲਿਆ	ਮਲਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	।	।	PUNCT	_	_	7	punct	_	_
 
-# ud_punjabi_petitprince_48
+# sent_id = ud_punjabi_petitprince_48
 # original_text = ਚਾਰੇ ਪਾਸੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਿਆ ਕਿ ਮੇਰੇ ਸਾਹਮਣੇ ਬਾਹਲਾ ਹੀ ਛੋਟਾ ਬੰਦਾ ਮੈਨੂੰ ਬੜੀ ਨੀਝ ਨਾਲ ਵਾਚ ਰਿਹਾ ਸੀ। .
 # transliteration = chāre pāse chiṅgī tarā̃ vekhiā ki mere sāhmne bāhlā hī choṭā bandā mainū̃ baṛī nījh nāl vāch rahā sī.
 # gloss = four side properly see.PST that 1SG front right EMPH small man me.ACC great seriousness with watch PROG COP.PST
@@ -1150,7 +1150,7 @@
 19	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	17	aux:pass	_	_
 20	।	।	PUNCT	_	_	5	punct	_	_
 
-# ud_punjabi_petitprince_49
+# sent_id = ud_punjabi_petitprince_49
 # original_text = ਆਹ ਵੇਖੋ ਉਸਦਾ ਸੋਹਣਾ ਜਿਹਾ ਚਿੱਤਰ ਜੋ ਮੈਂ ਬਾਦ ਵਿਚ ਬਣਾ ਸਕਿਆ। .
 # transliteration = āh vekho usdā sohnā jihā chitr jo maĩ bāad vic banā sakiā.
 # gloss = here see 3SG.GEN beautiful little picture REL 1SG later in make can PST.
@@ -1170,7 +1170,7 @@
 12	ਸਕਿਆ	ਸਕਣਾ	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
 13	।	।	PUNCT	_	_	2	punct	_	_
 
-# ud_punjabi_petitprince_50
+# sent_id = ud_punjabi_petitprince_50
 # original_text = ਮੇਰਾ "ਮਾਡਲ" ਮੇਰੇ ਚਿੱਤਰ ਨਾਲੋਂ ਕਿਤੇ ਸੋਹਣਾ ਸੀ। .
 # transliteration = merā "māḍal" mere chitr nālõ kiṭe sohnā sī.
 # gloss = 1SG.GEN model 1SG.GEN drawing than much more beautiful COP.PST.
@@ -1186,7 +1186,7 @@
 8	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	।	।	PUNCT	_	_	8	punct	_	_
 
-# ud_punjabi_petitprince_51
+# sent_id = ud_punjabi_petitprince_51
 # original_text = ਇਸ ਵਿਚ ਮੇਰਾ ਕੋਈ ਕਸੂਰ ਨਹੀਂ , ਕਿਉਂਕਿ ਮੇਰੇ ਵੱਡਿਆਂ ਨੇ ਮੇਰੀ ਛੇ ਸਾਲ ਦੀ ਊਮਰ ਵਿਚ ਹੀ " ਚਿੱਤਰਕਾਰ " ਬਣਨ ਤੋਂ ਮੇਰਾ ਹੌਸਲਾ ਤੋੜ ਦਿੱਤਾ ਸੀ। .
 # transliteration = is vic merā koī kasūr nahī̃,nkiõki mere vaḍiyā̃ ne merī chhe sāl dī umur vic hī "chitrakār" bann tō̃ merā hoslā ṭoṛ ditta sī.
 # gloss = because my elder PL ERG 1SG six year GEN age at EMPH painter become, from this 1SG.GEN courage break give PST PFV COP.PST.
@@ -1222,7 +1222,7 @@
 28	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	27	aux	_	_
 29	।	।	PUNCT	_	_	27	punct	_	_
 
-# ud_punjabi_petitprince_52
+# sent_id = ud_punjabi_petitprince_52
 # original_text = ਇਸ ਕਰਕੇ ਮੈਨੂੰ ਡਰਾਇੰਗ ਕਰਨੀ ਨਹੀਂ ਆਈ ਸਿਵਾਏ ਅਜਗਰਾਂ ਦੇ ਅੰਦਰੋਂ ਤੇ ਬਾਹਰੋਂ ਚਿੱਤਰਾਂ ਦੇ।
 # transliteration = is karke mainū̃ ḍrāiṅg karni nahī̃ āī siwāe ajgarā̃ de andarõ te bāharõ citrā̃ de.
 # gloss = for this reason 1SG.DAT drawing do INF NEG come PFV except boa PL GEN inside and outside picture PL GEN.
@@ -1245,7 +1245,7 @@
 15	ਦੇ	ਦਾ	ADP	_	_	14	case	_	_
 16	।	।	PUNCT	_	_	7	punct	_	_
 
-# ud_punjabi_petitprince_53
+# sent_id = ud_punjabi_petitprince_53
 # original_text = ਹੁਣ ਮੈਂ ਉਸ ਪ੍ਰੇਤ ਨੂੰ ਅੱਖਾਂ ਖੋਲ ਕੇ ਇੰਜ ਵੇਖਿਆ ਜਿਵੇਂ ਮੇਰੀਆਂ ਅੱਖਾਂ ਮੇਰੀ ਖੋਪੜੀ ਵਿਚੋਂ ਬਾਹਰ ਆ ਜਾਣਗੀਆਂ। .
 # transliteration = hun maĩ is parīt nū̃ akhā̃ kholh ke inj vekhiā jivẽ meriyā̃ akhā̃ merī khopṛī vicõ bāhar ā jāṇgiyā̃.
 # gloss = now 1SG this apparition ACC eye PL open CVB thus see PST PFV as.if 1SG.GEN eye PL 1SG.GEN skull from outside come go FUT.
@@ -1272,7 +1272,7 @@
 19	ਜਾਣਗੀਆਂ	ਜਾਣਾ	VERB	_	Aspect=Imp|Gender=Fem|Number=Plur|Tense=Fut	18	compound:svc	_	_
 20	।	।	PUNCT	_	_	10	punct	_	_
 
-# ud_punjabi_petitprince_54
+# sent_id = ud_punjabi_petitprince_54
 # original_text = ਤੁਹਾਨੂੰ ਯਾਦ ਹੋਵੇਗਾ ਕਿ ਮੇਰਾ ਜਹਾਜ਼ ਮਾਰੂਥਲ ਵਿਚ " ਥੜ੍ਹਾਅ " ਕਰਕੇ ਡਿੱਗਿਆ ਸੀ ਤੇ ਮਾਰੂਥਲ ਵੱਸੋਂ ਤੋਂ ਹਜ਼ਾਰਾਂ ਮੀਲ ਪਰ੍ਹੇ ਸੀ। .
 # transliteration = tahānū̃ yād hovēgā ki merā jahāz māruthal vic "ṭhṛhāe" karke ḍiggiyā sī te māruthal vasō̃ tō̃ hazārā̃ mīl paṛhe sī.
 # gloss = to 2SG memory be FUT that 1SG.GEN airplane desert in crash CVB fall COP.PST and desert settlement PL from thousand mile far COP.PST.
@@ -1302,7 +1302,7 @@
 22	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	13	conj	_	_
 23	।	।	PUNCT	_	_	3	punct	_	_
 
-# ud_punjabi_petitprince_55
+# sent_id = ud_punjabi_petitprince_55
 # original_text = ਪਰ ਇਹ ਇੰਜ ਨਹੀਂ ਸੀ ਜਾਪਦਾ ਕਿ ਮੇਰਾ ਛੋਟਾ ਬੰਦਾ ਰੇਤ ਵਿਚ ਬਿਨਾਂ ਗੱਲੋਂ ਅਵਾਰਾ ਫਿਰ ਰਿਹਾ ਹੋਵੇ ਅਤੇ ਨਾ ਹੀ ਉਹ ਭੁੱਖ, ਪਿਆਸ, ਡਰ ਜਾਂ ਥਕਾਵਟ ਨਾਲ ਬੇਹੋਸ਼ ਹੋ ਰਿਹਾ ਹੋਵੇ। .
 # transliteration = par eh inj nahī̃ sī jāpda ki merā choṭā bandā ret vic binā̃ gallõ āvārā phir rahā hovē. ate nā hī eh bhuḵḵ, piās, ḍar jā̃ thakāvaṭ nāl bihosh ho rahā hovē.
 # gloss = but thus NEG COP.PST seem IPFV that 1SG.GEN little person sand in without aim wander PROG COP.SUBJ and nor EMPH 3SG hunger thirst fear or fatigue with unconscious be PROG COP.SUBJ.
@@ -1342,7 +1342,7 @@
 32	ਹੋਵੇ	ਹੈ	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	18	conj	_	_
 33	।	।	PUNCT	_	_	6	punct	_	_
 
-# ud_punjabi_petitprince_56
+# sent_id = ud_punjabi_petitprince_56
 # original_text = ਉਹਨੂੰ ਵੇਖ ਕੇ ਅਜਿਹਾ ਵੀ ਨਹੀਂ ਸੀ ਜਾਪਦਾ ਕਿ ਕੋਈ ਬੱਚਾ ਮਾਰੂਥਲ ਵਿਚ ਵੱਸੋਂ ਤੋਂ ਹਜ਼ਾਰਾਂ ਮੀਲ ਪਰ੍ਹੇ ਗੁਆਚ ਗਿਆ ਹੋਵੇ। .
 # transliteration = uhnū̃ vekh ke ajhā vī nahī̃ sī jāpda ki koī bachā māruthal vic vasō̃ tō̃ hazārā̃ mīl paṛhe gavāch gayā hovē.
 # gloss = 3SG.ACC see CVB such also NEG COP.PST seem IPFV that some child desert in settlement PL from thousand mile far lose go PFV COP.SUBJ.
@@ -1371,7 +1371,7 @@
 21	ਹੋਵੇ	ਹੈ	AUX	_	Mood=Ind|VerbForm=Fin	8	ccomp	_	_
 22	।	।	PUNCT	_	_	8	punct	_	_
 
-# ud_punjabi_petitprince_57
+# sent_id = ud_punjabi_petitprince_57
 # original_text = ਆਖਿਰ ਜਦ ਮੈਂ ਬੋਲਣ ਜੋਗਾ ਹੋਇਆ ਤਾਂ ਮੈਂ ਉਸਨੂੰ ਪੁੱਛਿਆ : " ਪਰ ... ਤੂੰ ਇੱਥੇ ਕੀ ਕਰ ਰਿਹਾ ਏੱ ? "
 # transliteration = ākhir jad maĩ bolan jogā hoiā tā̃ maĩ isnū̃ puchhiā: "par... tū̃ itthe kī kar rahā̃ ī?"
 # gloss = finally when 1SG speak capable become PFV, then 1SG 3SG.ACC ask PST: ‘but 2SG here what do PROG COP.2SG?’
@@ -1400,7 +1400,7 @@
 21	?	?	PUNCT	_	_	10	punct	_	_
 22	"	"	PUNCT	_	_	10	punct	_	_
 
-# ud_punjabi_petitprince_58
+# sent_id = ud_punjabi_petitprince_58
 # original_text = ਉਸਨੇ ਜਵਾਬ ਵਿਚ ਉਵੇਂ ਹੀ ਬੜੀ ਹੌਲੀ ਜਿਹੀ ਇੰਜ ਕਿਹਾ ਜਿਵੇਂ ਕੋਈ ਬੜੀ ਜ਼ਰੂਰੀ ਗਲ ਕਰ ਰਿਹਾ ਹੋਵੇ, ......... " ਮੈਨੂੰ ਇਕ ਭੇਡ ਵਾਹ ਦਿਓ। "
 # transliteration = usne javāb vic aveĩ hī baṛī holī jihī inj kahā jivẽ koī baṛī zarūrī gal kar rehā hovē, ... "mainū̃ ik bhēṛ vāh deo."
 # gloss = 3SG ERG reply in just EMPH very softly little thus say PST, as.if some big important talk do PROG COP.SUBJ … 1SG.DAT one sheep draw give IMP.
@@ -1434,7 +1434,7 @@
 26	ਦਿਓ	ਦੇਣਾ	VERB	_	Aspect=Imp|Polite=Form|Tense=Fut	17	ccomp	_	_
 27	"	"	PUNCT	_	_	10	punct	_	_
 
-# ud_punjabi_petitprince_59
+# sent_id = ud_punjabi_petitprince_59
 # original_text = ਜਦੋਂ " ਭੇਤ " ਹਾਵੀ ਹੋ ਜਾਂਦਾ ਹੈ ਤਾਂ ਉਸਨੂੰ ਮੰਨਣ ਤੋਂ ਕੋਈ ਇਨਕਾਰ ਨਹੀ ਕਰ ਸਕਦਾ। .
 # transliteration = jadō̃ "bhēt" hāvī ho jāndā hai tā̃ isnū̃ manan tō̃ koī inkār nahī̃ kar sakdā.
 # gloss = when mystery overpower become go PRS COP.PRS, then it ACC accept from no refusal NEG do can PRS.
@@ -1459,7 +1459,7 @@
 17	ਸਕਦਾ	ਸਕਣਾ	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 18	।	।	PUNCT	_	_	17	punct	_	_
 
-# ud_punjabi_petitprince_60
+# sent_id = ud_punjabi_petitprince_60
 # original_text = ਬੜਾ ਹੀ ਹਾਸੋਹੀਣਾ  ਲੱਗਿਆ ਹੋਵੇਗਾ, ਜਦੋਂ ਵਸੋਂ ਤੋਂ ਹਜ਼ਾਰਾਂ ਮੀਲ ਦੂਰ ਅਤੇ ਮੌਤ ਦੇ ਮੂੰਹ ਵਿਚ ਹੁੰਦਿਆਂ ਹੋਇਆਂ ਭੇਡ ਵਾਹੁਣ ਲਈ ਮੈਂ ਆਪਣਾ ਪੈੱਨ ਤੇ ਕਾਗਜ਼ ਕੱਢਿਆ ਹੋਵੇਗਾ।
 # transliteration = baṛā hī hāsohīnā lagiā hovēgā, jadō̃ vasō̃ tō̃ hazārā̃ mīl dūr ate maut de muh̃ vic hundiā hoiā̃ bhēṛ vāhan laī maĩ āpnā pen te kāgaz kaḍhiā hovēgā.
 # gloss = very EMPH ridiculous seem COP.FUT when settlement from thousand mile far and death GEN mouth in be SUBJ, sheep draw for 1SG own pen and paper take.out COP.FUT.
@@ -1496,7 +1496,7 @@
 29	ਹੋਵੇਗਾ	ਹੈ	AUX	_	Tense=Past	5	advcl	_	_
 30	।	।	PUNCT	_	_	5	punct	_	_
 
-# ud_punjabi_petitprince_61
+# sent_id = ud_punjabi_petitprince_61
 # original_text = ਪਰ ਫਿਰ ਚੇਤੇ ਆਇਆ ਕਿ ਮੈਂ ਕਿਵੇਂ ਆਪਣਾ ਧਿਆਨ ਇਤਿਹਾਸ , ਭੂਗੋਲ , ਗਣਿਤ ਅਤੇ ਵਿਆਕਰਣ ਦੀ ਪੜ੍ਹਾਈ ਉਪਰ ਕੇਂਦ੍ਰਤ ਕੀਤਾ ਸੀ। .
 # transliteration = par phir chīte āyā ki maĩ kiven āpnā dhiyān itihās, bhugol, gṇit ate viyākaraṇ dī paṛhāī upar keindrat kītā sī.
 # gloss = but then recall come PST that 1SG how own attention history geography arithmetic and grammar GEN study upon focus do PST COP.PST.
@@ -1526,7 +1526,7 @@
 22	ਸੀ	ਸੀ	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	21	aux	_	_
 23	।	।	PUNCT	_	_	4	punct	_	_
 
-# ud_punjabi_petitprince_62
+# sent_id = ud_punjabi_petitprince_62
 # original_text = ਮੈਂ ਛੋਟੇ ਬੱਚੇ ਦੇ ਕੰਨ ਵਿਚ ਹੌਲੀ ਜਿਹੀ ਕਿਹਾ ਕਿ ਮੈਨੂੰ ਡਰਾਇੰਗ ਕਰਨੀ ਨਹੀਂ ਆਉਂਦੀ। .
 # transliteration = maĩ choṭe bache de kan vic holī jihī kahā ki mainū̃ ḍrāiṅg karni nahī̃ āuṇdī.
 # gloss = 1SG small child GEN ear in softly little say PST that 1SG.DAT drawing do INF NEG come IPFV.
@@ -1549,7 +1549,7 @@
 15	ਆਉਂਦੀ	ਆਉਣਾ	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Part	9	ccomp	_	_
 16	।	।	PUNCT	_	_	9	punct	_	_
 
-# ud_punjabi_coercive_discourse_1
+# sent_id = ud_punjabi_coercive_discourse_1
 # original_text = ਪੰਜਾਬੀ ਕਿਸਾਨਾਂ ਦੇ ਵਿਰੋਧ ਦੀ ਕਹਾਣੀ ਵੱਡੇ ਪੱਧਰ 'ਤੇ ਭਾਰਤੀ ਰਾਜ ਦੇ ਵਧਦੇ ਤਾਨਾਸ਼ਾਹੀ ਵਿਰੁੱਧ ਇੱਕ ਜਨਤਕ ਵਿਦਰੋਹ ਦੀ ਰਹੀ ਹੈ।
 # transliteration = panjabi kisānā̃ de virodh dī kahāṇī vaḍḍe padhar 'te bhāratī rāj de vadhde tānāśāhī viruddh ikk janatak vidroh dī rahī hai.
 # translation = The story of the Punjabi farmers’ protest has largely been one of a popular uprising against the intensifying authoritarianism of the Indian State.
@@ -1578,7 +1578,7 @@
 22	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
 23	।	।	PUNCT	_	_	21	punct	_	_
 
-# ud_punjabi_coercive_discourse_2
+# sent_id = ud_punjabi_coercive_discourse_2
 # original_text = ਇਸਦਾ ਜਨਤਕ ਕਿਰਦਾਰ ਉਸ ਏਕਤਾ ਦੇ ਪੱਧਰ ਤੋਂ ਸਪੱਸ਼ਟ ਹੁੰਦਾ ਹੈ ਜਿਸ ਨਾਲ ਪੰਜਾਬ ਅਤੇ ਵਿਦੇਸ਼ਾਂ ਵਿੱਚ ਸਿੱਖ ਭਾਈਚਾਰੇ ਨੇ ਇਸ ਵਿਦਰੋਹ ਦਾ ਸਮਰਥਨ ਕੀਤਾ ਹੈ।
 # transliteration = isdā janatak kirdār us ekatā de padhar tõ sapashṭ hundā hai jis nāl panjāb ate vidēśā̃ vich sikh bhāīcāre ne is vidroh dā samarthan kītā hai.
 # translation = Its popular character is evident in the level of unity with which the Sikh community in Punjab and the diaspora has supported the uprising.
@@ -1611,7 +1611,7 @@
 26	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
 27	।	।	PUNCT	_	_	10	punct	_	_
 
-# ud_punjabi_coercive_discourse_3
+# sent_id = ud_punjabi_coercive_discourse_3
 # original_text = ਮੀਡੀਆ ਕਵਰੇਜ ਦਾ ਬਹੁਤਾ ਹਿੱਸਾ ਭਾਰਤੀ ਰਾਜ ਅਤੇ ਇਸਦੇ ਖੇਤੀ ਕਾਨੂੰਨਾਂ 'ਤੇ ਕੇਂਦਰਿਤ ਰਿਹਾ ਹੈ ਜਿਵੇਂ ਕਿ ਇਹ ਕਿਸਾਨਾਂ ਦੇ ਵਿਰੋਧ ਦਾ ਨਿਸ਼ਾਨਾ ਹੋਣ।
 # transliteration = mīḍīā kavarej dā bahutā hissā bhāratī rāj ate isde khetī kānūnā̃ 'te keṅdrīt rihā hai jivẽ ki ih kisānā̃ de virodh dā nishānā hoṇ.
 # translation = Much of the media coverage has focused on the Indian State and its farm laws as the target of the farmers’ protests.
@@ -1643,7 +1643,7 @@
 25	ਹੋਣ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	_
 26	।	।	PUNCT	_	_	15	punct	_	_
 
-# ud_punjabi_coercive_discourse_4
+# sent_id = ud_punjabi_coercive_discourse_4
 # original_text = ਮੈਂ ਇੱਥੇ ਇੱਕ ਵੱਖਰੇ ਕਿਰਦਾਰ ਨੂੰ ਸੰਖੇਪ ਵਿੱਚ ਪੇਸ਼ ਕਰਕੇ ਸ਼ੁਰੂਆਤ ਕਰਨ ਜਾ ਰਿਹਾ ਹਾਂ ਜੋ ਮੇਰਾ ਮੰਨਣਾ ਹੈ ਕਿ ਕਿਸਾਨ ਅੰਦੋਲਨ ਦਾ ਸਾਹਮਣਾ ਕਰ ਰਹੀ ਵਿਰੋਧੀ ਸ਼ਕਤੀ ਨੂੰ ਵਧੇਰੇ ਸਪੱਸ਼ਟ ਰੂਪ ਵਿੱਚ ਦਰਸਾਉਂਦਾ ਹੈ।
 # transliteration = maĩ itthe ikk vakhre kirdār nū̃ saṅkhep vich pesh karkē śurū'āt karan jā rihā hā̃ jo mērā mañṇṇā hai ki kisān andolan dā sāhmaṇā kar rahī virodhī śakti nū̃ vadhere sapashṭ rūp vich darsāũdā hai.
 # translation = I’m going to begin here by briefly introducing a different character that I believe more clearly embodies the antagonistic force confronting the farmers’ movement.
@@ -1685,7 +1685,7 @@
 35	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	aux	_	_
 36	।	।	PUNCT	_	_	15	punct	_	_
 
-# ud_punjabi_coercive_discourse_5
+# sent_id = ud_punjabi_coercive_discourse_5
 # original_text = ਹੁਣ, ਆਓ ਇਹਨਾਂ ਨਵੇਂ ਕਾਨੂੰਨਾਂ ਦੇ ਸਰੂਪ ਬਾਰੇ ਗੱਲ ਕਰੀਏ।
 # transliteration = huṇ, āo ihnā̃ navẽ kānūnā̃ de sarūp bāre gall karīe.
 # translation = Now, let’s talk about the nature of these new laws.
@@ -1703,7 +1703,7 @@
 11	ਕਰੀਏ	ਕਰਨਾ	VERB	_	Gender=Masc|Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	compound:lvc	_	_
 12	।	।	PUNCT	_	_	10	punct	_	_
 
-# ud_punjabi_coercive_discourse_6
+# sent_id = ud_punjabi_coercive_discourse_6
 # original_text = ਪਹਿਲੀ ਗੱਲ ਜੋ ਧਿਆਨ ਦੇਣ ਵਾਲੀ ਹੈ ਉਹ ਇਹ ਹੈ ਕਿ ਭਾਜਪਾ ਇੱਕ ਸੱਜੇ-ਪੱਖੀ ਰੂੜ੍ਹੀਵਾਦੀ ਬਹੁਗਿਣਤੀਵਾਦੀ ਪਾਰਟੀ ਹੈ।
 # transliteration = pahilī gall jo dhyān deṇ vālī hai uh ih hai ki bhājpā ikk sajje-pakhī rūṛhīvādī bahugiṇtīvādī pārtī hai.
 # translation = The first thing to note is that the BJP is a right-wing conservative majoritarian party.
@@ -1729,7 +1729,7 @@
 19	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
 20	।	।	PUNCT	_	_	10	punct	_	_
 
-# ud_punjabi_coercive_discourse_7
+# sent_id = ud_punjabi_coercive_discourse_7
 # original_text = ਇਹ ਨਵ-ਉਦਾਰਵਾਦ ਅਤੇ ਹਿੰਦੂਤਵ ਦੋਵਾਂ ਪ੍ਰਤੀ ਵਚਨਬੱਧ ਹੈ।
 # transliteration = ih nav-udārvāḍ ate hindūtv dovā̃ pratī vachanbaddh hai.
 # translation = It is committed to both neo-liberalism and Hindutva.
@@ -1745,7 +1745,7 @@
 9	ਹੈ	ਹੈ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	।	।	PUNCT	_	_	9	punct	_	_
 
-# ud_punjabi_coercive_discourse_8
+# sent_id = ud_punjabi_coercive_discourse_8
 # original_text = ਇਸ ਲਈ, ਇਹ ਕਾਨੂੰਨ, ਜਿਨ੍ਹਾਂ ਬਾਰੇ ਉਨ੍ਹਾਂ ਨੇ ਕਿਸੇ ਵੀ ਕਿਸਾਨ ਯੂਨੀਅਨ ਨਾਲ ਸਲਾਹ ਨਹੀਂ ਕੀਤੀ, ਅਤੇ ਮਹਾਂਮਾਰੀ ਦੌਰਾਨ ਜਲਦਬਾਜ਼ੀ ਵਿੱਚ ਪਾਸ ਕੀਤੇ ਗਏ।
 # transliteration = is laī, ih kānūn, jinhã bāre unhā̃ ne kise vī kisān yūnīan nāl salāh nahī̃ kītī, ate mahā̃mārī daurān jaldbāzī vich pās kīte gae.
 # translation = So, these laws, which they did not consult any farmer unions about, were rushed to be passed during a pandemic.
@@ -1779,7 +1779,7 @@
 27	ਗਏ	ਗਿਆ	VERB	_	_	26	compound:svc	_	_
 28	।	।	PUNCT	_	_	26	punct	_	_
 
-# ud_punjabi_coercive_discourse_9
+# sent_id = ud_punjabi_coercive_discourse_9
 # original_text = ਇਹ ਕਾਨੂੰਨ ਖੇਤੀਬਾੜੀ ਦੀ ਖਰੀਦ ਅਤੇ ਵੰਡ ਨੂੰ ਨਿਯੰਤ੍ਰਿਤ ਕਰਨ ਅਤੇ ਨਿੱਜੀਕਰਨ ਲਈ ਤਿਆਰ ਕੀਤੇ ਗਏ ਹਨ।
 # transliteration = ih kānūn khetībāṛī dī kharīd ate vaṇḍ nū̃ niyantrit karan ate nijjīkaran laī tiār kīte gae han.
 # translation = These laws are designed to deregulate and privatize agricultural procurement and distribution.
@@ -1803,7 +1803,7 @@
 17	ਹਨ	ਹੈ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
 18	।	।	PUNCT	_	_	15	punct	_	_
 
-# ud_punjabi_coercive_discourse_10
+# sent_id = ud_punjabi_coercive_discourse_10
 # original_text = ਕਾਰਪੋਰੇਸ਼ਨਾਂ ਰਾਜ ਦੀਆਂ ਮੰਡੀਆਂ ਤੋਂ ਬਾਹਰ, ਬਾਜ਼ਾਰ ਕੀਮਤਾਂ 'ਤੇ ਫਸਲਾਂ ਖਰੀਦਣ ਦੇ ਯੋਗ ਹੋਣਗੀਆਂ।
 # transliteration = kārporeśanā̃ rāj dīā̃ maṇḍīā̃ tõ bāhar, bāzār kīmtā̃ 'te fasslā̃ kharīdaṇ de yog hoṇgīā̃.
 # translation = Corporations will be able to buy crops at market prices, outside the state Mandis (markets).
@@ -1826,7 +1826,7 @@
 16	ਹੋਣਗੀਆਂ	ਹੋਣਾ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	_
 17	।	।	PUNCT	_	_	16	punct	_	_
 
-# ud_punjabi_coercive_discourse_11
+# sent_id = ud_punjabi_coercive_discourse_11
 # original_text = ਅਤੇ ਬਿਨਾਂ ਕਾਨੂੰਨੀ ਸਹਾਰੇ ਦੇ ਸੱਟੇਬਾਜ਼ੀ, ਜ਼ਖੀਰੇਬਾਜ਼ੀ ਅਤੇ ਠੇਕੇ 'ਤੇ ਖੇਤੀ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣਗੀਆਂ।
 # transliteration = ate binā̃ kānūnī sahāre de saṭṭebāzī, zakhīrebāzī ate ṭhekke 'te khetī vich śāmil hoṇgīā̃.
 # translation = And engage in speculative, hoarding and contract farming without legal recourse.
