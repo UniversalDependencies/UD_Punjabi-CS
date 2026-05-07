@@ -35,7 +35,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Khan, Ali Haider; Talamo, Luigi; Vaz, Helena; Begum, Zarina; Dyer, Andrew; Verkerk, Annemarie
+Contributors: Khan, Ali Haider; Talamo, Luigi; Vaz, Helena; Begum, Zarina; Dyer, Andrew Thomas; Verkerk, Annemarie
 Contributing: here
 Contact: annemarie.verkerk@uni-saarland.de
 ===============================================================================
